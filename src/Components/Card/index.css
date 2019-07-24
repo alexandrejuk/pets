@@ -1,0 +1,21 @@
+.card {
+  border: 1px solid #e7e7e7;
+  border-radius: 4px;
+  box-shadow: 1 0 0 1 rgba(0, 0, 0, 0.4);
+  font-family: sans-serif;
+  min-width: 280px;
+  max-width: 280px;
+  height: 370px; 
+  margin: 4px;
+}
+.card-header {
+  width: 280px;
+  height: 200px;
+  overflow: hidden;
+}
+.card-body {
+  padding: 14px;
+}
+.image-pet {
+  width: 100%;
+}
